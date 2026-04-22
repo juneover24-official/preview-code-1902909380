@@ -1,0 +1,31 @@
+{
+  "qq_number": "1902909380",
+  "group_number": "958011527",
+  "updated_at": "2026-04-22T16:19:31.256928",
+  "skins": [
+    {
+      "name": "番茄の游乐园yomi",
+      "file": "番茄の游乐园yomi.bds",
+      "thumb": "番茄の游乐园yomi.bds_py_26_light_thumb.png",
+      "full": "番茄の游乐园yomi.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "番茄の夏日小蛙.bds",
+      "thumb": "番茄の夏日小蛙.bds_py_26_light_thumb.png",
+      "full": "番茄の夏日小蛙.bds_py_26_light.png"
+    },
+    {
+      "name": "番茄の游乐园yomi",
+      "file": "番茄の游乐园yomi.bdi",
+      "thumb": "番茄の游乐园yomi.bdi_py_26_light_thumb.png",
+      "full": "番茄の游乐园yomi.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "番茄の夏日小蛙.bdi",
+      "thumb": "番茄の夏日小蛙.bdi_py_26_light_thumb.png",
+      "full": "番茄の夏日小蛙.bdi_py_26_light.png"
+    }
+  ]
+}
