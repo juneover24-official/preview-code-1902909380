@@ -1,32 +1,8 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-04-22T16:19:42.583798",
+  "updated_at": "2026-04-23T15:52:39.042679",
   "skins": [
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "番茄の赌场风云小动效.bds",
-      "thumb": "番茄の赌场风云小动效.bds_py_26_light_thumb.png",
-      "full": "番茄の赌场风云小动效.bds_py_26_light.png"
-    },
-    {
-      "name": "番茄の宅家日记",
-      "file": "番茄の宅家日记.bds",
-      "thumb": "番茄の宅家日记.bds_py_26_light_thumb.png",
-      "full": "番茄の宅家日记.bds_py_26_light.png"
-    },
-    {
-      "name": "番茄の宅家日记",
-      "file": "番茄の宅家日记大动效.bds",
-      "thumb": "番茄の宅家日记大动效.bds_py_26_light_thumb.png",
-      "full": "番茄の宅家日记大动效.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "番茄の赌场风云大动效.bds",
-      "thumb": "番茄の赌场风云大动效.bds_py_26_light_thumb.png",
-      "full": "番茄の赌场风云大动效.bds_py_26_light.png"
-    },
     {
       "name": "番茄の宅家日记",
       "file": "番茄の宅家日记.bdi",
@@ -50,6 +26,30 @@
       "file": "番茄の赌场风云小动效.bdi",
       "thumb": "番茄の赌场风云小动效.bdi_py_26_light_thumb.png",
       "full": "番茄の赌场风云小动效.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "番茄の赌场风云小动效.bds",
+      "thumb": "番茄の赌场风云小动效.bds_py_26_light_thumb.png",
+      "full": "番茄の赌场风云小动效.bds_py_26_light.png"
+    },
+    {
+      "name": "番茄の宅家日记",
+      "file": "番茄の宅家日记.bds",
+      "thumb": "番茄の宅家日记.bds_py_26_light_thumb.png",
+      "full": "番茄の宅家日记.bds_py_26_light.png"
+    },
+    {
+      "name": "番茄の宅家日记",
+      "file": "番茄の宅家日记大动效.bds",
+      "thumb": "番茄の宅家日记大动效.bds_py_26_light_thumb.png",
+      "full": "番茄の宅家日记大动效.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "番茄の赌场风云大动效.bds",
+      "thumb": "番茄の赌场风云大动效.bds_py_26_light_thumb.png",
+      "full": "番茄の赌场风云大动效.bds_py_26_light.png"
     }
   ]
 }

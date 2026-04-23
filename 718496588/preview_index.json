@@ -1,26 +1,8 @@
 {
   "qq_number": "1902909380",
   "group_number": "718496588",
-  "updated_at": "2026-04-22T16:19:19.000396",
+  "updated_at": "2026-04-23T15:52:37.586348",
   "skins": [
-    {
-      "name": "番茄の草莓慕斯派对②",
-      "file": "番茄の草莓慕斯派对②.bds",
-      "thumb": "番茄の草莓慕斯派对②.bds_py_26_light_thumb.png",
-      "full": "番茄の草莓慕斯派对②.bds_py_26_light.png"
-    },
-    {
-      "name": "番茄の爱丽丝童话",
-      "file": "番茄の爱丽丝童话.bds",
-      "thumb": "番茄の爱丽丝童话.bds_py_26_light_thumb.png",
-      "full": "番茄の爱丽丝童话.bds_py_26_light.png"
-    },
-    {
-      "name": "番茄の草莓慕斯派对①",
-      "file": "番茄の草莓慕斯派对①.bds",
-      "thumb": "番茄の草莓慕斯派对①.bds_py_26_light_thumb.png",
-      "full": "番茄の草莓慕斯派对①.bds_py_26_light.png"
-    },
     {
       "name": "Description=番茄の江南喵厢",
       "file": "番茄の江南喵厢.bdi",
@@ -44,6 +26,24 @@
       "file": "番茄の草莓慕斯派对①.bdi",
       "thumb": "番茄の草莓慕斯派对①.bdi_py_26_light_thumb.png",
       "full": "番茄の草莓慕斯派对①.bdi_py_26_light.png"
+    },
+    {
+      "name": "番茄の草莓慕斯派对②",
+      "file": "番茄の草莓慕斯派对②.bds",
+      "thumb": "番茄の草莓慕斯派对②.bds_py_26_light_thumb.png",
+      "full": "番茄の草莓慕斯派对②.bds_py_26_light.png"
+    },
+    {
+      "name": "番茄の爱丽丝童话",
+      "file": "番茄の爱丽丝童话.bds",
+      "thumb": "番茄の爱丽丝童话.bds_py_26_light_thumb.png",
+      "full": "番茄の爱丽丝童话.bds_py_26_light.png"
+    },
+    {
+      "name": "番茄の草莓慕斯派对①",
+      "file": "番茄の草莓慕斯派对①.bds",
+      "thumb": "番茄の草莓慕斯派对①.bds_py_26_light_thumb.png",
+      "full": "番茄の草莓慕斯派对①.bds_py_26_light.png"
     }
   ]
 }
