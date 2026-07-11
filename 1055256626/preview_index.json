@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-07-11T13:51:25+00:00",
+  "updated_at": "2026-07-11T13:51:34+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -62,6 +62,12 @@
       "file": "番茄の只求通过闷闷音.bdi",
       "thumb": "番茄の只求通过闷闷音.bdi_py_26_light_thumb.png",
       "full": "番茄の只求通过闷闷音.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "溟の贴纸ovo动效22",
+      "file": "番茄の只求通过脆脆音.bdi",
+      "thumb": "番茄の只求通过脆脆音.bdi_py_26_light_thumb.png",
+      "full": "番茄の只求通过脆脆音.bdi_py_26_light_thumb.png"
     }
   ]
 }
