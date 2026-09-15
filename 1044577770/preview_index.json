@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1044577770",
-  "updated_at": "2026-09-15T06:43:35+00:00",
+  "updated_at": "2026-09-15T06:45:44+00:00",
   "skins": [
     {
       "name": "饭饭の我の猫",
@@ -30,6 +30,13 @@
       "thumb": "饭饭の我的猫有字融1漂3.bdi_py_26_light_thumb.png",
       "full": "饭饭の我的猫有字融1漂3.bdi_py_26_light_thumb.png",
       "file_id": "6f7c6db2814babb34dadba666392b642"
+    },
+    {
+      "name": "番茄の小萝卜",
+      "file": "番茄の小萝卜.bdi",
+      "thumb": "番茄の小萝卜.bdi_py_26_light_thumb.png",
+      "full": "番茄の小萝卜.bdi_py_26_light_thumb.png",
+      "file_id": "fe8343a183562d3b85fff70da46c5094"
     }
   ]
 }
