@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1044577770",
-  "updated_at": "2026-09-18T08:01:30+00:00",
+  "updated_at": "2026-09-18T08:01:35+00:00",
   "skins": [
     {
       "name": "饭饭の我の猫",
@@ -89,17 +89,17 @@
     },
     {
       "name": "饭饭のkt甜品车",
-      "file": "饭饭のkt甜品车融-1漂3.bdi",
-      "thumb": "饭饭のkt甜品车融-1漂3.bdi_py_26_light_thumb.png",
-      "full": "饭饭のkt甜品车融-1漂3.bdi_py_26_light_thumb.png",
-      "file_id": "6ae5dadae2973d190a02162b43c37fd5"
-    },
-    {
-      "name": "饭饭のkt甜品车",
       "file": "饭饭のkt甜品车融-2无漂3.bdi",
       "thumb": "饭饭のkt甜品车融-2无漂3.bdi_py_26_light_thumb.png",
       "full": "饭饭のkt甜品车融-2无漂3.bdi_py_26_light_thumb.png",
       "file_id": "32df93f443f345febf6c0861fa2607f3"
+    },
+    {
+      "name": "饭饭のkt甜品车",
+      "file": "饭饭のkt甜品车融-1漂3.bdi",
+      "thumb": "饭饭のkt甜品车融-1漂3.bdi_py_26_light_thumb.png",
+      "full": "饭饭のkt甜品车融-1漂3.bdi_py_26_light_thumb.png",
+      "file_id": "6ae5dadae2973d190a02162b43c37fd5"
     }
   ]
 }
