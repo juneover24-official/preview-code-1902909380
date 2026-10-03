@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1044577770",
-  "updated_at": "2026-10-03T15:57:01+00:00",
+  "updated_at": "2026-10-03T16:22:11+00:00",
   "skins": [
     {
       "name": "饭饭の我の猫",
@@ -141,6 +141,13 @@
       "file": "番茄の桃桃奶油-粉-彩底漂浮脆.bdi",
       "thumb": "番茄の桃桃奶油-粉-彩底漂浮脆.bdi_py_26_light_thumb.png",
       "full": "番茄の桃桃奶油-粉-彩底漂浮脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "番茄の桃桃奶油-粉-融合漂浮闷.bdi",
+      "thumb": "番茄の桃桃奶油-粉-融合漂浮闷.bdi_py_26_light_thumb.png",
+      "full": "番茄の桃桃奶油-粉-融合漂浮闷.bdi_py_26_light_thumb.png",
+      "file_id": "b43bba8bea4407c84932bdedf6537a28"
     }
   ]
 }
