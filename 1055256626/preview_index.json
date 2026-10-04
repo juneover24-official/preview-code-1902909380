@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-07-24T01:44:47+00:00",
+  "updated_at": "2026-10-04T13:45:55+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -86,6 +86,13 @@
       "file": "番茄の独角兽妹妹1.bds",
       "thumb": "番茄の独角兽妹妹1.bds_py_26_light_thumb.png",
       "full": "番茄の独角兽妹妹1.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "溟の底包包",
+      "file": "番茄の纯白梦境脆闷融合去漂字母版.bdi",
+      "thumb": "番茄の纯白梦境脆闷融合去漂字母版.bdi_py_26_light_thumb.png",
+      "full": "番茄の纯白梦境脆闷融合去漂字母版.bdi_py_26_light_thumb.png",
+      "file_id": "c821d0d1afcf64acb16cb012679754d8"
     }
   ]
 }
