@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-04T13:58:33+00:00",
+  "updated_at": "2026-10-04T13:59:49+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -89,13 +89,6 @@
     },
     {
       "name": "溟の底包包",
-      "file": "番茄の纯白梦境脆闷融合漂浮字母版.bdi",
-      "thumb": "番茄の纯白梦境脆闷融合漂浮字母版.bdi_py_26_light_thumb.png",
-      "full": "番茄の纯白梦境脆闷融合漂浮字母版.bdi_py_26_light_thumb.png",
-      "file_id": "386f965edced110343a2772fb5a1cda2"
-    },
-    {
-      "name": "溟の底包包",
       "file": "番茄の纯白梦境脆闷彩底漂浮字母版.bdi",
       "thumb": "番茄の纯白梦境脆闷彩底漂浮字母版.bdi_py_26_light_thumb.png",
       "full": "番茄の纯白梦境脆闷彩底漂浮字母版.bdi_py_26_light_thumb.png",
@@ -107,6 +100,13 @@
       "thumb": "番茄の纯白梦境脆闷融合去漂字母版.bdi_py_26_light_thumb.png",
       "full": "番茄の纯白梦境脆闷融合去漂字母版.bdi_py_26_light_thumb.png",
       "file_id": "c821d0d1afcf64acb16cb012679754d8"
+    },
+    {
+      "name": "溟の底包包",
+      "file": "番茄の纯白梦境脆闷融合漂浮字母版.bdi",
+      "thumb": "番茄の纯白梦境脆闷融合漂浮字母版.bdi_py_26_light_thumb.png",
+      "full": "番茄の纯白梦境脆闷融合漂浮字母版.bdi_py_26_light_thumb.png",
+      "file_id": "386f965edced110343a2772fb5a1cda2"
     }
   ]
 }
