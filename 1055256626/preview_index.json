@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T13:36:40+00:00",
+  "updated_at": "2026-10-06T13:37:20+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -275,6 +275,13 @@
       "thumb": "番茄の独角兽妹妹3.bds_py_26_light_thumb.png",
       "full": "番茄の独角兽妹妹3.bds_py_26_light_thumb.png",
       "file_id": "9e912c02c40d364581a73aabc29bcedf"
+    },
+    {
+      "name": "番茄の独角兽妹妹［音效2］",
+      "file": "番茄の独角兽妹妹2.bds",
+      "thumb": "番茄の独角兽妹妹2.bds_py_26_light_thumb.png",
+      "full": "番茄の独角兽妹妹2.bds_py_26_light_thumb.png",
+      "file_id": "c2f7fa734a30a5fc4a1dec56ab23b53a"
     }
   ]
 }
