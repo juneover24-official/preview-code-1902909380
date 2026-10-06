@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T12:09:09+00:00",
+  "updated_at": "2026-10-06T12:09:36+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -212,6 +212,13 @@
       "thumb": "番茄の角落生物yomi.bds_py_26_light_thumb.png",
       "full": "番茄の角落生物yomi.bds_py_26_light_thumb.png",
       "file_id": "0a7b4d4b7fbf3696829bebee16e550d4"
+    },
+    {
+      "name": "溟の底包包",
+      "file": "番茄の角落生物yomi去漂.bdi",
+      "thumb": "番茄の角落生物yomi去漂.bdi_py_26_light_thumb.png",
+      "full": "番茄の角落生物yomi去漂.bdi_py_26_light_thumb.png",
+      "file_id": "c9c6004bdede0a6f708734fa391f6016"
     }
   ]
 }
