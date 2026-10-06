@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T13:04:45+00:00",
+  "updated_at": "2026-10-06T13:05:18+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -254,6 +254,13 @@
       "thumb": "番茄の角落生物yomi.bdi_py_26_light_thumb.png",
       "full": "番茄の角落生物yomi.bdi_py_26_light_thumb.png",
       "file_id": "2be31b6db9f0e76c6d70fa4db2157c6e"
+    },
+    {
+      "name": "溟の底包包",
+      "file": "番茄の暴力熊重度依赖脆去漂.bdi",
+      "thumb": "番茄の暴力熊重度依赖脆去漂.bdi_py_26_light_thumb.png",
+      "full": "番茄の暴力熊重度依赖脆去漂.bdi_py_26_light_thumb.png",
+      "file_id": "6821e7edb6f934a255cbe021b8c0cccf"
     }
   ]
 }
