@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T13:52:00+00:00",
+  "updated_at": "2026-10-06T13:52:25+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -317,6 +317,13 @@
       "thumb": "番茄の小缎带按键不动小动效音效1.bdi_py_26_light_thumb.png",
       "full": "番茄の小缎带按键不动小动效音效1.bdi_py_26_light_thumb.png",
       "file_id": "ddb1670c89463831fef4824036939240"
+    },
+    {
+      "name": "番茄の小缎带「小动效音效1」",
+      "file": "番茄の小缎带按键不动小动效音效1.bds",
+      "thumb": "番茄の小缎带按键不动小动效音效1.bds_py_26_light_thumb.png",
+      "full": "番茄の小缎带按键不动小动效音效1.bds_py_26_light_thumb.png",
+      "file_id": "dfb4f1fdf79fa67801dd3f3b284e8143"
     }
   ]
 }
