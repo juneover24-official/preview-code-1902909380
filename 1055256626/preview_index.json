@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T14:16:27+00:00",
+  "updated_at": "2026-10-06T14:17:22+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -359,6 +359,13 @@
       "thumb": "番茄の梦核天使小动效小漂浮.bdi_py_26_light_thumb.png",
       "full": "番茄の梦核天使小动效小漂浮.bdi_py_26_light_thumb.png",
       "file_id": "7c8a27098bfcd5a5eb05b71a4be86db6"
+    },
+    {
+      "name": "番茄の梦核天使［小动效］",
+      "file": "番茄の梦核天使小动效小漂浮.bds",
+      "thumb": "番茄の梦核天使小动效小漂浮.bds_py_26_light_thumb.png",
+      "full": "番茄の梦核天使小动效小漂浮.bds_py_26_light_thumb.png",
+      "file_id": "3eec93f9deeaad0dd2870f5f7175553d"
     }
   ]
 }
