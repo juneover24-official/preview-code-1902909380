@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T12:12:11+00:00",
+  "updated_at": "2026-10-06T12:12:45+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -233,6 +233,13 @@
       "thumb": "番茄の纯白梦境脆脆去漂日文版.bds_py_26_light_thumb.png",
       "full": "番茄の纯白梦境脆脆去漂日文版.bds_py_26_light_thumb.png",
       "file_id": "59c933cae58e12fb20e09c0c68d1e87f"
+    },
+    {
+      "name": "番茄の纯白梦境",
+      "file": "番茄の纯白梦境脆闷漂浮日文版.bds",
+      "thumb": "番茄の纯白梦境脆闷漂浮日文版.bds_py_26_light_thumb.png",
+      "full": "番茄の纯白梦境脆闷漂浮日文版.bds_py_26_light_thumb.png",
+      "file_id": "543b70f023a7f532d33c5886d440f5a2"
     }
   ]
 }
