@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T13:49:54+00:00",
+  "updated_at": "2026-10-06T13:50:31+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -303,6 +303,13 @@
       "thumb": "番茄の甜品小黄.bdi_py_26_light_thumb.png",
       "full": "番茄の甜品小黄.bdi_py_26_light_thumb.png",
       "file_id": "b0f1033eaf2dac08e374f0f43e666580"
+    },
+    {
+      "name": "溟の贴纸ovo动效26",
+      "file": "番茄の好想睡觉.bdi",
+      "thumb": "番茄の好想睡觉.bdi_py_26_light_thumb.png",
+      "full": "番茄の好想睡觉.bdi_py_26_light_thumb.png",
+      "file_id": "4d272c9bcedd9149f4d74b95464393bd"
     }
   ]
 }
