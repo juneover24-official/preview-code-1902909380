@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T14:18:40+00:00",
+  "updated_at": "2026-10-06T14:19:31+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -387,6 +387,13 @@
       "thumb": "番茄の水冰月1.bds_py_26_light_thumb.png",
       "full": "番茄の水冰月1.bds_py_26_light_thumb.png",
       "file_id": "896f6603f9846d4d829a83db90480b58"
+    },
+    {
+      "name": "溟の底包包",
+      "file": "番茄の水冰月1.bdi",
+      "thumb": "番茄の水冰月1.bdi_py_26_light_thumb.png",
+      "full": "番茄の水冰月1.bdi_py_26_light_thumb.png",
+      "file_id": "1489e7811432509d58f44721e0023353"
     }
   ]
 }
