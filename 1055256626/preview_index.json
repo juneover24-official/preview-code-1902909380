@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-06T12:12:45+00:00",
+  "updated_at": "2026-10-06T12:13:18+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -240,6 +240,13 @@
       "thumb": "番茄の纯白梦境脆闷漂浮日文版.bds_py_26_light_thumb.png",
       "full": "番茄の纯白梦境脆闷漂浮日文版.bds_py_26_light_thumb.png",
       "file_id": "543b70f023a7f532d33c5886d440f5a2"
+    },
+    {
+      "name": "番茄の暴力熊重度依赖<脆>去漂",
+      "file": "番茄の暴力熊重度依赖脆去漂.bds",
+      "thumb": "番茄の暴力熊重度依赖脆去漂.bds_py_26_light_thumb.png",
+      "full": "番茄の暴力熊重度依赖脆去漂.bds_py_26_light_thumb.png",
+      "file_id": "ef85c3a13a5dc6f4bf485f21417c4726"
     }
   ]
 }
