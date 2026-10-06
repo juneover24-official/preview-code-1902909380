@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1055256626",
-  "updated_at": "2026-10-04T14:46:27+00:00",
+  "updated_at": "2026-10-06T12:09:09+00:00",
   "skins": [
     {
       "name": "番茄の宅家日记",
@@ -205,6 +205,13 @@
       "thumb": "番茄の纯白梦境脆脆彩底去漂日文版.bdi_py_26_light_thumb.png",
       "full": "番茄の纯白梦境脆脆彩底去漂日文版.bdi_py_26_light_thumb.png",
       "file_id": "9e5dea59bfedb83b21f8fd376a6b2dd2"
+    },
+    {
+      "name": "番茄の角落生物yomi",
+      "file": "番茄の角落生物yomi.bds",
+      "thumb": "番茄の角落生物yomi.bds_py_26_light_thumb.png",
+      "full": "番茄の角落生物yomi.bds_py_26_light_thumb.png",
+      "file_id": "0a7b4d4b7fbf3696829bebee16e550d4"
     }
   ]
 }
