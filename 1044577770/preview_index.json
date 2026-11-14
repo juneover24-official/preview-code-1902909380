@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1044577770",
-  "updated_at": "2026-10-04T10:49:55+00:00",
+  "updated_at": "2026-11-14T21:46:37+00:00",
   "skins": [
     {
       "name": "饭饭の我の猫",
@@ -239,6 +239,12 @@
       "thumb": "番茄の桃桃奶油-橙-彩底漂浮脆.bdi_py_26_light_thumb.png",
       "full": "番茄の桃桃奶油-橙-彩底漂浮脆.bdi_py_26_light_thumb.png",
       "file_id": "b2a1ab981b57f236c92a71b96ac8680a"
+    },
+    {
+      "name": "番茄の猫咪日常",
+      "file": "番茄の猫咪日常-去漂浮-融合.bdi",
+      "thumb": "番茄の猫咪日常-去漂浮-融合.bdi_py_26_light_thumb.png",
+      "full": "番茄の猫咪日常-去漂浮-融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
