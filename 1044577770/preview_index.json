@@ -1,7 +1,7 @@
 {
   "qq_number": "1902909380",
   "group_number": "1044577770",
-  "updated_at": "2026-11-14T21:47:08+00:00",
+  "updated_at": "2026-11-15T08:01:10+00:00",
   "skins": [
     {
       "name": "饭饭の我の猫",
@@ -275,6 +275,13 @@
       "file": "番茄の猫咪日常.bds",
       "thumb": "番茄の猫咪日常.bds_py_26_light_thumb.png",
       "full": "番茄の猫咪日常.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "饭饭の冬天小兔羊",
+      "file": "饭饭の冬天小兔羊有字彩-2漂3.bds",
+      "thumb": "饭饭の冬天小兔羊有字彩-2漂3.bds_py_26_light_thumb.png",
+      "full": "饭饭の冬天小兔羊有字彩-2漂3.bds_py_26_light_thumb.png",
+      "file_id": "013cbdf8dfb6203138ee0936b14c50e6"
     }
   ]
 }
